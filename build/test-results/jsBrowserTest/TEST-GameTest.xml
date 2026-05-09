@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-05-09T20:32:23.352Z" hostname="DESKTOP-CCROQA3" time="0.006">
+  <properties/>
+  <testcase name="gravity_pieces_stack_from_bottom[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.001"/>
+  <testcase name="horizontal_win_classic[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.0"/>
+  <testcase name="vertical_win[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.0"/>
+  <testcase name="diagonal_win_down_right[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.001"/>
+  <testcase name="configurable_win_length_five[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.001"/>
+  <testcase name="win_length_four_does_not_trigger_with_only_three[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.0"/>
+  <testcase name="cannot_drop_into_full_column[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.0"/>
+  <testcase name="draw_when_board_fills_with_no_winner[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.0"/>
+  <testcase name="moves_blocked_after_game_over[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.002"/>
+  <testcase name="config_validates_inputs[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.0"/>
+  <testcase name="players_alternate[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.0"/>
+  <testcase name="last_move_tracks_landing_position[js, browser, ChromeHeadless148.0.0.0, Windows10]" classname="GameTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

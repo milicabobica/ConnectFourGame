@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=2.0.21
+depends=org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.kotlin\:kotlin-dom-api-compat kotlin
+ir_signature_versions=1,2
+jsOutputName=connect-four
+metadata_version=1.4.1
+serializedIrFileFingerprints=2pwvnh9aub6x.bdd7l5x57no6 3rcl0uanposp7.2qmubn29wfnod 3jdbf4yx7fulg.2xgseynf4msst
+serializedKlibFingerprint=p49p7ojkuhr3.1s6is9pheojop
+unique_name=connect-four

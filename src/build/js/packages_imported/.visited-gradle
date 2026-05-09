@@ -1,0 +1,43 @@
+{
+  "version": "9",
+  "items": {
+    "cfcee03cdefc1ec904d922b8086ed6cd": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-js\\2.0.21\\8047778f196f3cdc817f1e90eb45f08b4837ba9\\kotlin-stdlib-js-2.0.21.klib"
+    },
+    "03db1d31f832ab3d78b4cb1f877b57a3": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-dom-api-compat\\2.0.21\\537dbda0c5c5ee06c81b2c0d1f466df60d810e3f\\kotlin-dom-api-compat-2.0.21.klib"
+    },
+    "a184537d94384b675522046d5603eea0": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.runtime\\runtime-js\\1.7.3\\6579cc52e8c11ce90e40429d33831c9f268426f1\\runtime-js-1.7.3.klib"
+    },
+    "aa1f46cd383c18efef3c11ddaf9bccdf": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.collection-internal\\collection-js\\1.7.3\\61e298276aee83832033ac71a896995521b479dd\\collection-js-1.7.3.klib"
+    },
+    "4cc6c24a00ab0a87d0b04bfae7c4fd96": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.annotation-internal\\annotation-js\\1.7.3\\224b54be8f31cd3018909a73efaf964ddf6c6d7e\\annotation-js-1.7.3.klib"
+    },
+    "ba8177ecda3981427862b37308d71b44": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\atomicfu-js\\0.23.2\\e19f377f0dc24137414f5f3e1be730f60aeb9539\\atomicfu-js-0.23.2.klib"
+    },
+    "5f460de879b1311463aa4ad821c02375": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-js\\1.8.0\\15c3b0e757e1e31196d82616f47e66df3ecd7d5b\\kotlinx-coroutines-core-js-1.8.0.klib"
+    },
+    "e9306c2451bbe8784372b11cb78554d0": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlinx-atomicfu-runtime\\1.9.24\\373f8846d435f6e7f77453cefbb97c548ae4781e\\kotlinx-atomicfu-runtime-1.9.24.klib"
+    },
+    "8a055c18bf814263c816aa4c0c8f48e7": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.html\\html-core-js\\1.7.3\\73b6a49e4e3574b5341e7b2091b3c2d18db203be\\html-core-js-1.7.3.klib",
+      "target": "html-core-js\\1.7.3"
+    },
+    "18019d41f00186db65e3b283b6208ce4": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.html\\internal-html-core-runtime-js\\1.7.3\\540c179d3e83841507804fe7ddea7a395427eb6f\\internal-html-core-runtime-js-1.7.3.klib"
+    },
+    "fffad12d968e557f4c38a7f8f56b463e": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js-runner\\2.0.21\\99e060b94579ec8542bc53e141b0d7ed9a48ad5d\\kotlin-test-js-runner-2.0.21.jar",
+      "target": "kotlin-test-js-runner\\0.0.2"
+    },
+    "62be8bca4be2a80f15715119ad59c862": {
+      "src": "C:\\Users\\Mila\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js\\2.0.21\\dc68d22e94e9c346947d6eb9c9c7e21834accc40\\kotlin-test-js-2.0.21.klib"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "connect-four",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages\\connect-four",
+    "packages\\connect-four-test",
+    "packages_imported\\html-core-js\\1.7.3",
+    "packages_imported\\kotlin-test-js-runner\\0.0.2"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "resolutions": {}
+}
